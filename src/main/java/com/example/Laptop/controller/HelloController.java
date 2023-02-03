@@ -20,8 +20,7 @@ public class HelloController {
     public String hola(){
         return "holaa";
     }
-
-
+    }
 
 
 
@@ -29,4 +28,3 @@ public class HelloController {
     //getters and setter
 
 
-}
