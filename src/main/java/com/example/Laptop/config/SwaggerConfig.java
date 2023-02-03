@@ -33,8 +33,8 @@ public class SwaggerConfig {
                 .build();
     }
     private ApiInfo apiDetails() {
-        return new ApiInfo("Spring Boot Book API REST",
-                "Library api Rest Docs",
+        return new ApiInfo("Documentacion oficial de Softvert",
+                "En esta pagina encuentas informacion para realiza la consumicion de la API REST",
                 "1.0",
                 "http://www.softvert.net",
                 new Contact("Cosme","http://www.softvert.net","cosmedam26@gmail.com"),
