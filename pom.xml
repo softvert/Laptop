@@ -14,7 +14,7 @@
 	<name>Laptop</name>
 	<description>Este es un proyecto para gestionar Laptop</description>
 	<properties>
-		<java.version>8</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
