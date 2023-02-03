@@ -16,7 +16,7 @@ public class HelloController {
     }
 
     //metodo
-    @GetMapping("/hola")
+    @GetMapping("/")
     public String hola(){
         return "holaa";
     }

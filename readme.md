@@ -33,3 +33,16 @@ Ejercicio 3
 Crear un método en LaptopController que reciba un objeto Laptop enviado en formato JSON desde Postman y persistirlo en la base de datos.
 
 Comprobar que al obtener de nuevo los laptops aparece el nuevo ordenador creado.
+
+-------------------------------------
+
+##Despliegue de app spring boot a heroku
+
+Crear archivo system.properties en el proyecto con el contenido
+ ``dentro de lleva java.runtime.version=17``
+
+1. Crear una cuenta en heroku.com en git.com
+2. Tener configurado git en el ordenador
+3. Subir el proyecto Intellij IDEA desde la opcion git share project on githab
+4. Desde heroku, crear app y elegir método Github y buscar el repositorio subido
+5. Habilitar deply automatico y ejecutar el deploy
